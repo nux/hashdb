@@ -1,0 +1,12 @@
+{
+    "name": "nux/hashdb",
+    "type": "library",
+    "description": "Components from crackstation-hashdb for use in symfony",
+    "homepage": "https://github.com/nux/hashdb",
+    "license": "GPL-3.0",
+    "autoload": {
+        "psr-0": {
+            "Nux\\Hashdb\\": ""
+        }
+    }
+}
